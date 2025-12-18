@@ -1,2 +1,5 @@
-# Portfolio
-I am developing a personal portfolio website using HTML, CSS, and JavaScript to showcase my projects, interests, and contact details. The site features sections for introductions, project highlights, and easy communication. It is live in progress and will be enhanced with responsive design and modern UI.
+I’m currently building my personal portfolio where I’ll be showcasing my projects, sharing my interests, and adding a contact section. It’s made with HTML, CSS, and JavaScript (still a work in progress).
+
+🔗 Live at: https://nirjarashrestha.github.io/Portfolio/
+
+Don’t forget to drop me a message and share your suggestions 😉
